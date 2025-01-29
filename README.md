@@ -1,2 +1,1 @@
-- Hi, My name is Lucas Hewgill. I am a computer science major at the University of Victoria.
-- You can reach me via email to LucasH@acifica.net
+
