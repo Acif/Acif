@@ -17,7 +17,7 @@ Through this project, I’ve gained hands-on experience with **PHP, MySQL, JavaS
 ---
 
 ### 📫 Get in touch
-- Email: [contact@lucashewgill.com](mailto:contact@lucashewgill.com?subject=[GitHub])  
+- Email: [contact@lucashewgill.com](mailto:lucas@lucashewgill.com?subject=[GitHub])  
 - Portfolio: [lucashewgill.info](https://lucashewgill.info)  
 
 ---
