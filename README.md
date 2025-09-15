@@ -6,10 +6,13 @@ I also have a personal interest in **cybersecurity**, which I am pursuing outsid
 
 ---
 
-### 🔧 What I’m working on
-- Building projects that combine software development with secure, scalable design.  
-- Expanding my knowledge in **system programming**, **databases**, and **network security**.  
-- Developing tools that apply security principles to real-world problems.  
+### 🌐 Current Focus
+Most of my time is dedicated to coursework, but outside of school, I’m actively developing my personal website.  
+
+The site serves as both a **portfolio and a sandbox project**, where I’ve been exploring and building interesting features.
+
+Through this project, I’ve gained hands-on experience with **PHP, MySQL, JavaScript, and CSS**, along with **security practices** (input validation, email verification, Cloudflare protections) and **server administration** on a self-hosted machine.  
+
 
 ---
 
