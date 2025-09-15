@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Science student at the **University of Victoria**, specializing in **Software Systems Development** and **Networks**.  
 
-I also have a strong personal interest in **cybersecurity**, which I am actively pursuing outside of my academic studies.  
+I also have a personal interest in **cybersecurity**, which I am pursuing outside of my academic studies.
 
 ---
 
@@ -18,6 +18,3 @@ I also have a strong personal interest in **cybersecurity**, which I am actively
 - Portfolio: [lucashewgill.info](https://lucashewgill.info)  
 
 ---
-
-### ⚡ Fun fact
-Outside of coding, I enjoy **photography** (especially aviation) and tinkering with **hardware projects**.
